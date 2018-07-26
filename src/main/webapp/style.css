@@ -1,0 +1,25 @@
+#container{
+    height: 250px;
+    width: 350px;
+    border: 2px brown solid;
+    margin-left: 40%;
+}
+h2{
+    color: brown;
+    margin-left: 5px;
+}
+.data{
+    width: 20em;
+    margin-left: 2em;
+    margin-bottom: 5px;
+}
+#nut{
+    width: 10em;
+    height: 3em;
+    margin-left: 2em;
+    margin-top: 10px;
+}
+label {
+    margin-left: 2em;
+    margin-bottom: 3px;
+}
